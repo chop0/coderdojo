@@ -59,7 +59,7 @@ public class ScaryMonsters extends EZPlugin {
 }
 
   @Command(aliases = { "flyingpig" },
-            description = "Lovely pigs.Ban factory farming!",
+            description = "Lovely flying pigs. Ban factory farming!",
             permissions = { "" },
             toolTip = "/flyingpig")
   public void afcCommand(MessageReceiver caller, String[] args) {
